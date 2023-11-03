@@ -1,6 +1,6 @@
 # StyleSense Shop
 
-![StyleSense Shop Logo](url-to-your-logo.png)
+![StyleSense Shop Logo](public/assets/images/klassy-logo.png)
 
 ## Overview
 
