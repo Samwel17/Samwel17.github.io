@@ -26,7 +26,7 @@ StyleSense Shop is a modern and user-friendly web application for a clothing sto
 
 ![View a preview of Stylesense Shop App](public/assets/images/preview1.png)
 
-![View a preview of Stylesense Shop App](public/assets/images/preview2.png)
+![View a preview of Stylesense Shop App](public/assets/images/Preview2.png)
 
 ![View a preview of Stylesense Shop App](public/assets/images/preview3.png)
 
