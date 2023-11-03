@@ -22,7 +22,7 @@ StyleSense Shop is a modern and user-friendly web application for a clothing sto
 
 - **Order History:** Access a complete history of your previous orders, making reordering a breeze.
 
-## Demo
+## Previwe
 
-[View a live demo of StyleSense Shop](url-to-live-demo)
+![View a preview of Stylesense Shop App](public/assets/images/preview1.png)
 
